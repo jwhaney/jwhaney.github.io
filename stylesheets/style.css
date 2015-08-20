@@ -16,6 +16,8 @@ height: 675px;
 line-height: 10px;
 background-color: #D4D4D4;
 border: 1px solid #000000;
+padding-left: 10px;
+padding-right: 10px;
 }
 #main {
 text-align: center;
