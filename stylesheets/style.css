@@ -62,7 +62,7 @@ text-decoration: none;
 a:hover {
 background-color: #FFFF00;
 }
-button {
+a:button {
 background-color: #000000;
 color: #FFFFFF;
 font-family: Courier;
