@@ -56,20 +56,25 @@ text-align: center;
 a {
 color: #0066FF;
 font-family: Courier;
-font-weight: bold;
 text-decoration: none;
 }
 a:hover {
 background-color: #FFFF00;
 }
-a:button {
+a.button {
+appearance: button;
 background-color: #000000;
+position: relative;
+margin: 0 auto;
 color: #FFFFFF;
+border-style: double;
 font-family: Courier;
 font-size: 10pt;
 text-align: center;
 padding-top: 3px;
 padding-bottom: 3px;
+padding-left: 5px;
+padding-right: 5px;
 }
 p {
 color: #FFFFFF;
