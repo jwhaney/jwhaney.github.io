@@ -734,8 +734,8 @@ dt {
   background: -o-linear-gradient(#93bd20, #659e10);
   background: -ms-linear-gradient(#93bd20, #659e10);
   background: linear-gradient(#93bd20, #659e10);
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
+  -moz-border-radius: 1px;
+  -webkit-border-radius: 1px;
   -o-border-radius: 2px;
   -ms-border-radius: 2px;
   -khtml-border-radius: 2px;
@@ -745,10 +745,10 @@ dt {
   -o-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.3), 0px 3px 7px rgba(0, 0, 0, 0.7);
   box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.3), 0px 3px 7px rgba(0, 0, 0, 0.7);
   background-color: #93bd20;
-  padding: 10px 12px;
-  margin-top: 6px;
-  line-height: 14px;
-  font-size: 14px;
+  padding: 5px 7px;
+  margin-top: 5px;
+  line-height: 10px;
+  font-size: 10px;
   display: inline-block;
   text-align: center;
 }
@@ -768,7 +768,7 @@ dt {
 }
 #header nav li.fork {
   float: left;
-  margin-left: 0px;
+  margin-left: 2px;
 }
 #header nav li.downloads {
   float: right;
@@ -776,8 +776,7 @@ dt {
 }
 #header nav li.title {
   float: right;
-  margin-right: 10px;
-  font-size: 11px;
+  margin-right: 2px;
 }
 
 section {
