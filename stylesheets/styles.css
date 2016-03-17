@@ -813,13 +813,13 @@ section #title .credits.right {
  
 .menu a {
     text-shadow:0px 1px 0px rgba(0,0,0,0.5);
-    color:#777;
+    color:#ffcc00;
     transition:color linear 0.15s;
 }
  
 .menu a:hover, .menu .current-item a {
     text-decoration:none;
-    color:#696969;
+    color:#f0e7d5;
 }
  
 /*----- Search -----*/
