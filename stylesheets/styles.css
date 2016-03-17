@@ -802,7 +802,7 @@ section #title .credits.right {
  
 .menu li {
     margin:5px 5px 5px 5px;
-    float:center;
+    float:left;
     list-style:none;
     font-size:12px;
 }
