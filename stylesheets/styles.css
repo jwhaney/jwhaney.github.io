@@ -801,10 +801,10 @@ section #title .credits.right {
 }
  
 .menu li {
-    margin:0px 50px 0px 0px;
-    float:left;
+    margin:5px 5px 5px 5px;
+    float:center;
     list-style:none;
-    font-size:17px;
+    font-size:12px;
 }
  
 .menu li:last-child {
@@ -819,7 +819,7 @@ section #title .credits.right {
  
 .menu a:hover, .menu .current-item a {
     text-decoration:none;
-    color:#66a992;
+    color:#696969;
 }
  
 /*----- Search -----*/
