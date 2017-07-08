@@ -1,0 +1,22 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer left column one-half">
+      <section class="small-font">
+        circa 2017 <br>
+        powered by <a href="https://github.com/jekyll/jekyll">jekyll</a> <br>
+        credit to <a href="https://github.com/wild-flame">wild-flame</a> for this <a href="https://github.com/wild-flame/jekyll-simple"> simple theme</a>
+      </section>
+    </div>
+
+    <div class="footer right column one-half">
+      <section class="small-font">
+        {% if site.github_username %}
+        {% include icon-github.html username=site.github_username %}
+        {% endif %}
+        {% if site.linkedin_username %}
+        {% include icon-linkedin.html username=site.linkedin_username %}
+        {% endif %}
+      </section>
+    </div>
+  </div>
+</footer>
