@@ -11,7 +11,7 @@ Below are some projects I have worked on or am currently working on. Some are si
 > ***under construction*** - this is a web map developed using the esri-leaflet javascript api, jquery, bootstrap, etc.
 
 - ### [adelberts brewery web map](https://adelbertsbeer.github.io/)
-> a simple web map developed for [adelberts craft brewery](https://adelbertsbeer.com) in austin, tx. shows counties where the brewery beer can be purchased from distributors.
+> a simple web map developed for [adelberts craft brewery](http://adelbertsbeer.com) in austin, tx. shows counties where the brewery beer can be purchased from distributors.
 
 - ### [leaflet terminator - day and night](http://johnwhaney.com/day-and-night)
 > a simple leaflet map showing day and night areas on earth. auto updates every 0.5 seconds. built using the terminator leaflet plugin.
