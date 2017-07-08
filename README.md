@@ -1,16 +1,7 @@
-# jekyll-simple
+# johnwhaney.com
 
-## simple
-simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
+credit to david lin aka [wild-flame](https://github.com/wild-flame) for this jekyll theme.
 
-Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
+this is my personal site/blog where i post my projects and occasionally write some words about web development, gis, and random tech stuff. i used the jekyll framework because it integrates great with github pages.
 
-Supposedly, this could work with Japanese as well but never had a chance to try.
-
-## Story behind this theme
-
-It has been long that using font with Chinese in web was a tedious and time-consuming work. It would be almost impossible to make different OS or devices to look the same.
-
-iOS 9 has pulished some new fonts in Chinese and I decided to make one theme that looks good on iOS devices, at the same time, making it acceptable on computers using other fonts.
-
-So mobile goes first, then the macOS.
+you can view it @ [johnwhaney.com](http://johnwhaney.com)
