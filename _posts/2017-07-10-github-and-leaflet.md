@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Installing Jekyll with Chocolatey
-categories: jekyll windows
-description: GitHub and Leaflet is the free solution to creating and hosting web maps.
+title: Using GitHub and Leaflet to create free web maps
+categories: github leaflet
+description: GitHub and Leaflet is the free solution to creating and hosting web maps. This is a presentation I created to document a great way to create and host maps on the web for free!
 ---
 
 GitHub and Leaflet is the free solution to creating and hosting web maps. This is a presentation I created to document a great way to create and host maps on the web for free!
