@@ -10,7 +10,7 @@ I came across this documentation on the official Jekyll site. I have not attempt
 ### Installing Jekyll
 If you are using Windows 10 Anniversary Update, the easiest way to run Jekyll is by [installing](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide) the new Bash on Ubuntu on Windows.
 
-### Intallation via Bash on Windows 10
+### Installation via Bash on Windows 10
 ***Note:*** You must have [Bash on Ubuntu on Windows](https://msdn.microsoft.com/en-us/commandline/wsl/about) enabled.
 
 First make sure all our packages / repositories are up to date. Open a new Command Prompt instance, and type the following:
