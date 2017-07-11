@@ -27,7 +27,7 @@ encoding: utf-8
 
 # Third-party services
 # just leave someone empty to disable it
-# google_analytics:
+google_analytics: UA-86670127-1
 disqus_shortname:
 
 # used this for post_excerpt at index_page

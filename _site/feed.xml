@@ -6,9 +6,45 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Jul 2017 16:37:15 -0500</pubDate>
-    <lastBuildDate>Mon, 10 Jul 2017 16:37:15 -0500</lastBuildDate>
+    <pubDate>Tue, 11 Jul 2017 10:42:40 -0500</pubDate>
+    <lastBuildDate>Tue, 11 Jul 2017 10:42:40 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Displaying ArcGIS feature services in QGIS on Mac</title>
+        <description>&lt;p&gt;If you use macOS and QGIS, then you know you have to go to kyngchaos.com and download the necessary dependency framework (GDAL complete). You may also know that there are some things that behave differently in the mac version of Q versus Linux, Windows, etc.&lt;/p&gt;
+
+&lt;p&gt;One of these differences is the lack of a native Add ArcGisFeatureServer Layer from a Server option, which is present on Windows and Linux operating systems. Strange right…? Here are some steps to get around this frustrating lack of functionality.&lt;/p&gt;
+
+&lt;h3 id=&quot;enable-experimental-plugins-within-the-qgis-plugin-repository&quot;&gt;Enable experimental plugins within the QGIS plugin repository&lt;/h3&gt;
+&lt;p&gt;By default, experimental plugins are disabled in QGIS.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Open QGIS&lt;/li&gt;
+  &lt;li&gt;Navigate to Plugins - Manage and Install PLugins&lt;/li&gt;
+  &lt;li&gt;Go to Settings on the left hand side&lt;/li&gt;
+  &lt;li&gt;Check the second box “Show also experimental plugins”&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;search-for-the-arcgis-rest-api-connector-plugins&quot;&gt;Search for the ArcGIS REST API Connector plugins&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Select the ‘All’ option on the left hand side at the top within the Plugins dialogue&lt;/li&gt;
+  &lt;li&gt;Type ‘arcgis’ in the Search bar&lt;/li&gt;
+  &lt;li&gt;Select the ArcGIS REST API Connector plugin&lt;/li&gt;
+  &lt;li&gt;Install Plugin&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 11 Jul 2017 08:56:00 -0500</pubDate>
+        <link>http://localhost:4000/qgis/arcgis/mac/2017/07/11/arcgis-feature-service-to-qgis-mac.html</link>
+        <guid isPermaLink="true">http://localhost:4000/qgis/arcgis/mac/2017/07/11/arcgis-feature-service-to-qgis-mac.html</guid>
+        
+        
+        <category>qgis</category>
+        
+        <category>arcgis</category>
+        
+        <category>mac</category>
+        
+      </item>
     
       <item>
         <title>Using GitHub and Leaflet to create free maps</title>
@@ -43,7 +79,7 @@
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&quot;open-command-prompt-and-isntall-jekyll&quot;&gt;Open command prompt and isntall Jekyll&lt;/h3&gt;
+&lt;h3 id=&quot;open-command-prompt-and-install-jekyll&quot;&gt;Open command prompt and install Jekyll&lt;/h3&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem install jekyll
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
@@ -51,7 +87,7 @@
 &lt;h3 id=&quot;note&quot;&gt;&lt;em&gt;Note&lt;/em&gt;&lt;/h3&gt;
 &lt;p&gt;Updates in the infrastructure of Ruby may cause SSL errors when attempting to use gem install with versions of the RubyGems package older than 2.6. (The RubyGems package installed via the Chocolatey tool is version 2.3) If you have installed an older version, you can update the RubyGems package using the directions &lt;a href=&quot;http://guides.rubygems.org/ssl-certificate-update/#installing-using-update-packages&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;And that’s it!&lt;/p&gt;
+&lt;p&gt;And thats it!&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Jul 2017 12:05:00 -0500</pubDate>
         <link>http://localhost:4000/jekyll/windows/2017/07/10/installing-jekyll-with-chocolatey.html</link>
