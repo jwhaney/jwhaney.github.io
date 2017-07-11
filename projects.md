@@ -6,9 +6,11 @@ permalink: /projects/
 
 Below are some projects I have worked on or am currently working on. Some are side projects so I can brush up on my skillz, others were developed for my job.
 
+- ### [esri txdot austin district planning map](https://txdot.maps.arcgis.com/apps/webappviewer/index.html?id=a13a2f06aaf242c5807abb33eb36a3f1)
+> This is a mapping application I built using the ESRI Web AppBuilder which is a WSIWYG application builder. It is super simple to build rather complex web applications. This was built for my current job to display custom district feature services which assist in better transportation planning and project development.
 
-- ### [txdot austin district planning map](https://atxdot.github.io/planning-map)
-> ***Under Construction*** - This is a mapping application I developed using the esri-leaflet JavaScript API, jQuery, Bootstrap, etc. I am still tinkering and working on it.
+- ### [leaflet txdot austin district planning map](https://atxdot.github.io/planning-map)
+> ***Under Construction*** - This is a mapping application I developed from scratch using the esri-leaflet JavaScript API, jQuery, Bootstrap, etc. I am still tinkering and working on it.
 
 - ### [adelberts brewery web map](https://adelbertsbeer.github.io/)
 > A simple web map developed for [Adelberts craft brewery](http://adelbertsbeer.com) here in Austin, TX. The map shows counties where the brewerys beer can be purchased from different distributors. There is a link to the map on the brewery website as well.
