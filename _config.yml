@@ -28,7 +28,7 @@ encoding: utf-8
 # Third-party services
 # just leave someone empty to disable it
 google_analytics: UA-86670127-1
-disqus_shortname:
+disqus_shortname: johnwhaney
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
