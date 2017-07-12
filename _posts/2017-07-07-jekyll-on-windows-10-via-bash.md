@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Jekyll on Windows 10 via Bash
-categories: jekyll windows ubuntu
-description: While Windows is not an officially-supported platform, it can be used to run Jekyll with the proper tweaks. This page aims to collect some of the general knowledge and lessons that have been unearthed by Windows users.
+date: 2017-07-07 10:30
+author: john
+categories: web-development
+description: I came across this documentation on the official Jekyll site. I have not attempted this yet (my work machine is Windows 7 so I used another method - see my Installing Jekyll with Chocolatey post) but it sparked my interest and I intend to give it a go soon on a virtual machine when I have the time.
 ---
 
-I came across this documentation on the official Jekyll site. I have not attempted this yet (my work machine is Windows 7 so I used another method - *see my Chocolatey post coming soon*) but it sparked my interest and I intend to give it a go soon.
+I came across this documentation on the official Jekyll site. I have not attempted this yet (my work machine is Windows 7 so I used another method - *see my Installing Jekyll with Chocolatey* post) but it sparked my interest and I intend to give it a go soon on a virtual machine when I have the time.
 
 ### Installing Jekyll
-If you are using Windows 10 Anniversary Update, the easiest way to run Jekyll is by [installing](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide) the new Bash on Ubuntu on Windows.
+If you are using Windows 10 Anniversary Update, the easiest way to run Jekyll is by [installing](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide) the new Bash on Ubuntu on Windows. The installation guide seems pretty straight-forward, so follow the guidelines at that link before proceeding.
 
 ### Installation via Bash on Windows 10
 ***Note:*** You must have [Bash on Ubuntu on Windows](https://msdn.microsoft.com/en-us/commandline/wsl/about) enabled.

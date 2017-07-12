@@ -2,7 +2,8 @@
 layout: post
 title: Displaying ArcGIS feature services in QGIS on Mac
 date: 2017-07-11 08:56
-categories: qgis arcgis mac
+author: john
+categories: gis
 description: If you use macOS and QGIS, then you know you have to go to kyngchaos.com and download the necessary dependency framework (GDAL complete). You may also know that there are some things that behave differently in the mac version of Q versus Linux, Windows, etc.
 ---
 
