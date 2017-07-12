@@ -34,7 +34,7 @@ title: johnwhaney.com
         {% endif %}
 
         {% for category in post.categories %}
-        <a href="{{"/archive/" | append: category | prepend: site.baseurl }}">
+        <a href="{{"/archive" | prepend: site.baseurl }}">
           <data data-icon="ei-archive"></data>
           {{category}}</a>
         {% endfor %}
