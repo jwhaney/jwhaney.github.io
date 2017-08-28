@@ -3,7 +3,7 @@ layout: post
 title: Using GitHub and Leaflet to create free maps
 date: 2017-07-10 12:52
 author: john
-categories: web-development
+categories: web gis
 description: GitHub and Leaflet is a great free solution to creating and hosting maps. This is a presentation I created to document the process.
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Jekyll on Windows 10 via Bash
 date: 2017-07-07 10:30
 author: john
-categories: web-development
+categories: web
 description: I came across this documentation on the official Jekyll site. I have not attempted this yet (my work machine is Windows 7 so I used another method - see my Installing Jekyll with Chocolatey post) but it sparked my interest and I intend to give it a go soon on a virtual machine when I have the time.
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Installing Jekyll with Chocolatey
 date: 2017-07-10 12:05
 author: john
-categories: web-development
+categories: web
 description: If you are on Windows 7 and want to install Jekyll, there are some hoops you have to jump through since Windows is not an officially supported platform. However, it is super simple to get up and running with Jekyll if you follow these instructions and install the package manager for Windows called Chocolatey.
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  I finally chose a framework
 date: 2017-07-07 09:15
 author: john
-categories: web-development
+categories: web
 description: I have been flipping back and forth testing different frameworks for the last year or so, but I think I'm finally done. I have made a choice, I think...
 ---
 
