@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Documenting Posts to a GitHub hosted Jekyll site
+title: Posting to a GitHub hosted Jekyll site
 date: 2017-09-14 10:58
 author: john
 categories: web
+location: austin
 description: This is a readme file I wrote for a website I maintain for the organization Centex GIS based here in Austin. I wanted to document a user friendly way to write a new job, event, or news post to the GitHub hosted website so others can be involved in creating and posting content other than just myself.
 ---
-This is a readme file I wrote for a website I maintain for the organization Centex GIS based here in Austin. I wanted to document a user friendly way to write a new job, event, or news post to the GitHub hosted website so others can be involved in creating and posting content other than just myself. Documenting this process will allow others to pick up the duties that I was normally performing, if for example I am out of town or unavailable. The following is the content of the readme in the github repo named [centexgis.github.io](https://github.com/centexgis/centexgis.github.io).
+This is a readme file I wrote for a website I maintain for the organization Centex GIS based here in Austin. I wanted to document a user friendly way to write a new job, event, or news post to the GitHub hosted website so others can be involved in creating and posting content other than just myself. Documenting this process allows others to perform this task if I am out of town or unavailable. The following is the content of the readme in the Github repo named [centexgis.github.io](https://github.com/centexgis/centexgis.github.io).
 
 ------------------------
 ### About
