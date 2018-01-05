@@ -24,6 +24,9 @@ Below are some projects I have worked on or am currently working on. Some are si
 - ### [charles bukowski](http://johnwhaney.com/cbukowski)
 > A tribute page to [Charles Bukowski](https://en.wikipedia.org/wiki/Charles_Bukowski) developed as part of the freecodecamp curriculum. html, bootstrap, css, jQuery
 
+- ### [u.s. wildfires 2013 carto map](https://nmp.carto.com/u/jwhaney/builder/49432360-1281-11e7-af7a-0e3ff518bd15/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B20.46818922264095%2C-139.74609375000003%5D%2C%22sw%22%3A%5B53.14677033085084%2C-59.23828125000001%5D%2C%22center%22%3A%5B38.634036452919226%2C-99.49218750000001%5D%2C%22zoom%22%3A5%7D%7D)
+> A simple Carto web map showing cumulative acres burned by wildfires in each county in 2013. Zoom in to view symbols representing wildfire size in acres.
+
 - ### [excel to point](https://github.com/jwhaney/exc-to-pt)
 > Python program using the Arcpy module to batch process tabular vehicle crash data for a previous job.
 
