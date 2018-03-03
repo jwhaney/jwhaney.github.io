@@ -4,7 +4,13 @@ title: Projects
 permalink: /projects/
 ---
 
-Below are some projects I have worked on or am currently working on. Some are side projects so I can brush up on my skillz, others were developed for my job.
+Below are projects I have worked on or am currently working on. Some are side projects so I can brush up on my skills, others were developed for my job.
+
+- ### [centexgis prototype](https://github.com/centexgis/prototype2)
+> ***Under Construction*** - Working on updating the theme of the CentexGIS website. Improved responsiveness and user interaction. Jekyll, HTML, CSS, JavaScript, Git, GitHub. View it live at http://centexgis.com/prototype2.
+
+- ### [centexgis](https://github.com/centexgis/centexgis.github.io)
+> Current CentexGIS website (as of February 2018) that I update/maintain. I inherited this content from another developer and am currently in the process of updating the site to a new theme. Custom domain with CNAME file, Jekyll, Git, GitHub, HTML, CSS, JavaScript. View it live at http://centexgis.com.
 
 - ### [esri txdot austin district planning map](https://txdot.maps.arcgis.com/apps/webappviewer/index.html?id=a13a2f06aaf242c5807abb33eb36a3f1)
 > This is a mapping application I built using the ESRI Web AppBuilder which is a WSIWYG application builder. It is super simple to build rather complex web applications. This was built for my current job to display custom district feature services which assist in better transportation planning and project development.
