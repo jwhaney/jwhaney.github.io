@@ -6,6 +6,9 @@ permalink: /projects/
 
 Below are projects I have worked on or am currently working on. Some are side projects so I can brush up on my skills, others were developed for my job.
 
+- ### [texas lake gallery](https://github.com/TNRIS/lake-gallery)
+> Project for work [@TNRIS](https://github.com/TNRIS). Story map type web application built with Python 3.5, PosgreSQL 9.5.2 (Amazon RDS instance), GDAL, and Django as the web framework. You can view it at [https://lake-gallery.tnris.org/](https://lake-gallery.tnris.org/).
+
 - ### [centexgis prototype](https://github.com/centexgis/prototype2)
 > ***Under Construction*** - Working on updating the theme of the CentexGIS website. Improved responsiveness and user interaction. Jekyll, HTML, CSS, JavaScript, Git, GitHub. View it live at http://centexgis.com/prototype2.
 
