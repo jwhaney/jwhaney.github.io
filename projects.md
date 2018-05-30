@@ -18,7 +18,7 @@ Below are projects I have worked on or am currently working on. Some are side pr
 - ### [esri txdot austin district planning map](https://txdot.maps.arcgis.com/apps/webappviewer/index.html?id=a13a2f06aaf242c5807abb33eb36a3f1)
 > This is a mapping application I built using the ESRI Web AppBuilder which is a WSIWYG application builder. It is super simple to build rather complex web applications. This was built for my current job to display custom district feature services which assist in better transportation planning and project development.
 
-- ### [leaflet txdot austin district planning map](https://atxdot.github.io/planning-map)
+- ### [leaflet txdot austin district planning map](https://johnwhaney.com/planning-map)
 > ***Under Construction*** - This is a mapping application I developed from scratch using the esri-leaflet JavaScript API, jQuery, Bootstrap, etc. I am still tinkering and working on it.
 
 - ### [adelberts brewery web map](https://adelbertsbeer.github.io/)
