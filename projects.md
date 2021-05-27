@@ -21,6 +21,9 @@ Below are projects I have worked on or am currently working on. Some are side pr
 - ### [TNRIS Bulk Downloader Utility](https://github.com/jwhaney/bulk-downloader)
 > Script/utility to bulk download an entire collection's resources at [data.tnris.org](https://data.tnris.org). Built using Python3 and the Tkinter GUI library with a few other packages as well.
 
+- ### [American Filter Service](https://www.americanfilterservice.com/)
+> Simple one page company site for public to visit and find contact information. Main part of this project was to build an administration console (login creds required; not public) for the company to manage customer information, inventory, etc. Hosted with PythonAnywhere and built with Django, HTML, CSS, JavaScript.
+
 - ### [centexgis prototype](https://github.com/centexgis/prototype2)
 > Not sure if this will ever be used, but I was once working on updating the theme of the current CentexGIS website (below project bullet). Improved responsiveness and user interaction. Jekyll, HTML, CSS, JavaScript, Git, GitHub. View it live at [http://centexgis.com/prototype2](http://centexgis.com/prototype2).
 
