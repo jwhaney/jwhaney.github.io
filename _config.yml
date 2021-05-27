@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: John Haney
-email: geojwh@gmail.com
+title: jwhaney
+email: johnthree@pm.me
 description: > # this means to ignore newlines until "baseurl:"
-  John W. Haney's personal website, blog, and portfolio. Check it out.
+  jwhaney's personal website, blog, and portfolio. check it out if you're looking for me.
 baseurl:  # the subpath of your site, e.g. /blog
-url: "http://johnwhaney.com" # the base hostname & protocol for your site
+url: "https://jwhaney.github.io" # the base hostname & protocol for your site
 # twitter_username: Taffye
 # github_username:
 # linkedin_username: jhaney
@@ -26,7 +26,7 @@ encoding: utf-8
 # Third-party services
 # just leave someone empty to disable it
 google_analytics: UA-86670127-1
-disqus_shortname: johnwhaney
+disqus_shortname:
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
