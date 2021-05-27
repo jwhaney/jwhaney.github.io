@@ -18,8 +18,8 @@ Below are projects I have worked on or am currently working on. Some are side pr
 - ### [2022.texasstatewaterplan](https://2022.texasstatewaterplan.org/)
 > The latest version of the state of Texas' water plan developed at the Texas Water Development Board. I did not develop the original version of this application, but worked on front-end and data updates for this latest version. Built with Node and React.
 
-- ### [TNRIS data.tnris.org Bulk Downloader Utility](https://github.com/jwhaney/bulk-downloader)
-> Script/utility to bulk download an entire collection's resources at data.tnris.org. Built using Python3 and the Tkinter GUI library.
+- ### [TNRIS Bulk Downloader Utility](https://github.com/jwhaney/bulk-downloader)
+> Script/utility to bulk download an entire collection's resources at [data.tnris.org](https://data.tnris.org). Built using Python3 and the Tkinter GUI library with a few other packages as well.
 
 - ### [centexgis prototype](https://github.com/centexgis/prototype2)
 > Not sure if this will ever be used, but I was once working on updating the theme of the current CentexGIS website (below project bullet). Improved responsiveness and user interaction. Jekyll, HTML, CSS, JavaScript, Git, GitHub. View it live at [http://centexgis.com/prototype2](http://centexgis.com/prototype2).
