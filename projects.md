@@ -16,7 +16,7 @@ Below are projects I have worked on or am currently working on. Some are side pr
 > The Texas Natural Resources Information System's main website. Custom static site generator using Node, NPM, Nunjucks, Gulp, Metalsmith, Webpack, etc. See Github repo here: [https://github.com/TNRIS/tnris.org](https://github.com/TNRIS/tnris.org)
 
 - ### [2022.texasstatewaterplan](https://2022.texasstatewaterplan.org/)
-> The latest version of the state of Texas' water plan developed at the Texas Water Development Board. I did not develop the original version of this application, but worked on front-end and data updates for this latest version. Built with Node and React.
+> The latest version of the state of Texas' water plan developed at the Texas Water Development Board. I did not develop the original version of this application, but worked on front-end and data updates for this latest version. Built with Node and React. Github repo here: [https://github.com/TNRIS/iswp2022](https://github.com/TNRIS/iswp2022)
 
 - ### [TNRIS Bulk Downloader Utility](https://github.com/jwhaney/bulk-downloader)
 > Script/utility to bulk download an entire collection's resources at [data.tnris.org](https://data.tnris.org). Built using Python3 and the Tkinter GUI library with a few other packages as well.
