@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Projects
-permalink: /projects/
+layout: default
+title: projects
+permalink: /
 ---
 
-Below are projects I have worked on or am currently working on. Some are side projects, some are directly related to my current job at TNRIS, some were early projects when I first started coding and writing scripts. Check at my full GitHub profile and what I've been up to lately [@jwhaney](https://github.com/jwhaney).
+Below are projects I have worked on or am currently working on. Some are side projects, some are directly related to my current job at TNRIS, some were early projects when I first started coding and writing scripts. Check at my full GitHub profile and what I've been up to lately here [@jwhaney](https://github.com/jwhaney).
 
 - ### [api.tnris.org](https://api.tnris.org/api/v1)
 > Texas Natural Resources Application Programming Interface built with [Django](https://www.djangoproject.com/) and the Django [restframework](https://www.django-rest-framework.org/). This API feeds all kinds of data to a a few different applications, mainly [data.tnris.org](https://data.tnris.org) and [tnris.org](https://tnris.org). There is an administration console (requires login credentials; not public) that acts as a content management system to update information for the agency's website, upload resources for data collections available on data.tnris.org, upload image resources to AWS S3 for use in tnris.org or wherever users need, upload documents to S3, etc. This is the central brain of TNRIS right here. See Github repo here: [https://github.com/TNRIS/api.tnris.org](https://github.com/TNRIS/api.tnris.org)
@@ -20,6 +20,9 @@ Below are projects I have worked on or am currently working on. Some are side pr
 
 - ### [TNRIS Bulk Downloader Utility](https://github.com/jwhaney/bulk-downloader)
 > Script/utility to bulk download an entire collection's resources at [data.tnris.org](https://data.tnris.org). Built using Python3 and the Tkinter GUI library with a few other packages as well.
+
+- ### [TNRIS/TWDB Kiosk](https://kiosk.tnris.org)
+> Project for the Texas Water Development Board to fix the issues with the existing Kiosk operating system and functionality and to improve it. Simple static web app/front-end with a customized system using a small Dell computer, Ubuntu 18.04 with touch, Chromium, Bash scripts, Cron jobs, etc. Web app uses JavaScript, Node for local dev, AWS Route 53 for domain, Bootstrap, and Github pages for hosting. Github repo here: [https://github.com/TNRIS/kiosk](https://github.com/TNRIS/kiosk)
 
 - ### [American Filter Service](https://www.americanfilterservice.com/)
 > Simple one page company site for public to visit and find contact information. Main part of this project was to build an administration console (login creds required; not public) for the company to manage customer information, inventory, etc. Hosted with PythonAnywhere and built with Django, HTML, CSS, JavaScript.
